@@ -28,12 +28,12 @@ You upload a technical manual (PDF). You ask a question in plain English. SyncFi
 ### Prerequisites
 - Python 3.10+
 - [Ollama](https://ollama.com) installed and running
-- Node.js (optional, for dev)
+
 
 ### Install
 # Clone the repo
 git clone https://github.com/AkshaySRaikar/syncfix.git
-cd syncfix
+go to the right folder
 
 # Create and activate virtual environment
 python -m venv venv
